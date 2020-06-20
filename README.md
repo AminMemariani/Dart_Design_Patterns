@@ -1,1 +1,3 @@
-# Dart_Design_Patterns
+# Dart Design Patterns
+
+1- Singleton
