@@ -16,3 +16,4 @@ main() {
   print(identical(s1, s2));  // true
   print(s1 == s2);           // true
 }
+//ref: https://stackoverflow.com/questions/12649573/how-do-you-build-a-singleton-in-dart
