@@ -1,3 +1,4 @@
 # Dart Design Patterns
 
-1- <a href="https://github.com/AminMemariani/Dart_Design_Patterns/blob/master/Singelton.dart">Singleton</a>
+- <a href="https://github.com/AminMemariani/Dart_Design_Patterns/blob/master/Singleton/Singelton.dart">Singleton</a>
+- <a href="https://github.com/AminMemariani/Dart_Design_Patterns/blob/master/Factory/Factory.dart">Factory</a>
