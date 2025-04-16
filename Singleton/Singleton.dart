@@ -8,8 +8,6 @@ class Singleton {
   Singleton._internal();
 }
 
-//------------------------------------------------
-
 main() {
   var s1 = Singleton();
   var s2 = Singleton();
