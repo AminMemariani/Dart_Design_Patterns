@@ -22,9 +22,6 @@ A collection of classic design patterns implemented in Dart, with a focus on cla
 - [Adapter](https://github.com/AminMemariani/Dart_Design_Patterns/blob/master/Adapter/adapter.dart)  
   Allows incompatible interfaces to work together.
 
-- [Decorator](https://github.com/AminMemariani/Dart_Design_Patterns/blob/master/Decorator/decorator.dart)  
-  Adds behavior to objects dynamically without altering their structure.
-
 ---
 
 Feel free to explore the implementations and clone or fork this repository for your learning and reference. Pull requests and contributions are welcome!
