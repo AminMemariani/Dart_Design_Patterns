@@ -4,7 +4,7 @@ A collection of classic design patterns implemented in Dart, with a focus on cla
 
 ## Included Patterns
 
-- [Singleton](https://github.com/AminMemariani/Dart_Design_Patterns/blob/master/Singleton/Singelton.dart)  
+- [Singleton](https://github.com/AminMemariani/Dart_Design_Patterns/blob/master/Singleton/Singleton.dart)  
   Ensures a class has only one instance and provides a global point of access to it.
 
 - [Factory](https://github.com/AminMemariani/Dart_Design_Patterns/blob/master/Factory/Factory.dart)  
